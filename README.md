@@ -1,5 +1,7 @@
 # Hash_Trab_Java
 
+Trabalho feito por: Mateus Mendes Mattos e Ana Luísa Pacífico 
+
 arquivo read me com o descritivo da função hash. 
 
 A função hash baseia-se no princípio de embaralhamento, para que assim, produzaum número de hash único para cada registro. 
